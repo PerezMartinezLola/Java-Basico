@@ -1,0 +1,89 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/eclipse,visualstudiocode
+# Editar en https://www.toptal.com/developers/gitignore?templates=eclipse,visualstudiocode
+
+### Eclipse ###
+.metadatos
+papelera/
+temporal/
+*.tmp
+*.bak
+*.swp
+*~.nib
+propiedades locales
+.ajustes/
+.ruta de carga
+.recomendadores
+
+# Constructores de herramientas externas
+.constructoresdeherramientasexternas/
+
+# "Configuraciones de lanzamiento de Eclipse" almacenadas localmente
+*.lanzamiento
+
+# Específico de PyDev (IDE de Python para Eclipse)
+*.pydevproject
+
+# Herramientas de desarrollo específicas de CDT (C/C++)
+.cproyecto
+
+# CDT-herramientas automáticas
+.autotools
+
+# Procesador de anotaciones de Java (APT)
+.ruta de fábrica
+
+# Herramientas de desarrollo específicas de PDT (PHP)
+.ruta de construcción
+
+# complemento sbteclipse
+.objetivo
+
+# Complemento Tern
+proyecto .tern
+
+# Complemento TeXlipse
+.texlipse
+
+# STS (conjunto de herramientas Spring)
+.springBeans
+
+# Recomendadores de código
+.recomendadores/
+
+# Procesamiento de anotaciones
+.apt_generated/
+.prueba_generada_apt/
+
+# Específico de Scala IDE (desarrollo de Scala y Java para Eclipse)
+.cache-principal
+.scala_dependencies
+.hoja de trabajo
+
+# Descomente esta línea si desea ignorar el archivo de descripción del proyecto.
+# Normalmente, este archivo se rastreará si contiene configuraciones de compilación/dependencia:
+#.proyecto
+
+### Parche Eclipse ###
+# Herramientas de arranque de primavera
+.sts4-cache/
+
+### Código de Visual Studio ###
+.vscode/*
+!.vscode/configuraciones.json
+!.vscode/tareas.json
+!.vscode/launch.json
+!.vscode/extensiones.json
+!.vscode/*.fragmentos-de-código
+
+# Historial local para Visual Studio Code
+.historia/
+
+# Extensiones de código de Visual Studio creadas
+*.vsix
+
+### Parche de VisualStudioCode ###
+# Ignorar todo el historial local de archivos
+.historia
+.ionuro
+
+# Fin de https://www.toptal.com/developers/gitignore/api/eclipse,visualstudiocode
