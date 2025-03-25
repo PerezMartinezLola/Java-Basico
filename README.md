@@ -44,7 +44,7 @@ public class ArrayMenorValor {
 	}
 }
 ```
-<<<<<<< HEAD
+
 ***
 #### Recursos adicionales:
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/)
@@ -53,5 +53,4 @@ public class ArrayMenorValor {
 - Paiza.io
 
 
-=======
->>>>>>> a19e65fe137cddf6ac1ff050259a2ebd8e46794f
+
