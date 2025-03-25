@@ -50,7 +50,7 @@ public class ArrayMenorValor {
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/)
 - [W3Schools - Curso de Java](https://www.w3schools.com/java/)
 - [Curso Java 2025. Introducción](https://www.youtube.com/watch?v=_WJkT42l7Wk&ab_channel=pildorasinformaticas)
-- Paiza.io
+- [Paiza.io] (https://paiza.io/es/projects/new)
 
 
 
