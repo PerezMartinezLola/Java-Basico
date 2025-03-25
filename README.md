@@ -1,4 +1,4 @@
-![Java Básico](https://localo.com/es/diccionario-de-marketing/que-es-java)
+![Java Básico](https://localo.com/es/assets/img/definitions/what-is-java.webp)
 # Java Básico
 
 Java es un lenguaje de programación ampliamente utilizado por su facilidad de aprendizaje, su enfoque en la programación orientada a objetos y su capacidad de ejecutarse en múltiples plataformas. 
