@@ -1,20 +1,29 @@
 ![Java Básico](img/what-is-java.webp)
 # Java Básico
 
-Java es un lenguaje de programación ampliamente utilizado por su facilidad de aprendizaje, su enfoque en la programación orientada a objetos y su capacidad de ejecutarse en múltiples plataformas. 
-Es un lenguaje versátil que permite desarrollar desde aplicaciones de escritorio hasta sistemas empresariales y aplicaciones móviles. 
+Java es un lenguaje de programación ampliamente utilizado debido a su facilidad de aprendizaje, su enfoque en la programación orientada a objetos y su capacidad de ejecutarse en múltiples plataformas gracias a la Máquina Virtual de Java (JVM). 
+Su versatilidad permite desarrollar desde aplicaciones de escritorio hasta sistemas empresariales y aplicaciones móviles.
 
-## ¿Qué vamos a encontrar aquí?
+## ¿Qué encontrarás en este repositorio?
 
-En este repositorio encontrarás ejemplos básicos de Java, centrados en el uso de bucles for y arrays, para aprender dinámicamente la lógica de programación.
+Este repositorio está diseñado para quienes están comenzando con Java. Aquí encontrarás ejemplos prácticos y sencillos que te ayudarán a comprender conceptos fundamentales del lenguaje.
+
+Los temas principales que se abordan son:
+
+- Uso de **bucles** y cómo iterar sobre arrays.
+- Manejo básico de **arrays** y cómo realizar operaciones con ellos.
+- Implementación de **algoritmos básicos** para trabajar con estructuras de datos.
+
+El objetivo es tener ejemplos para poder ver cómo funciona de manera dinámica y práctica la lógica de programación en Java.
 
 ## Requisitos
 
-No es necesario instalar un IDE para ejecutar los ejemplos. 
-Puedes probarlos fácilmente en plataformas de código en línea como Paiza.io, lo que facilita la práctica sin configuración adicional.
+No es necesario instalar un entorno de desarrollo (IDE) como Eclipse o IntelliJ IDEA para ejecutar los ejemplos.
+Puedes probarlos directamente en plataformas de código en línea como Paiza.io, lo que facilita la práctica sin necesidad de configuraciones adicionales.
 
 
-#### Ejemplos de lo que vas a encontrar:
+#### Ejemplo de lo que vas a encontrar:
+A continuación, puedes ver un fragmento de código que demuestra cómo encontrar el valor mínimo en un array utilizando un bucle for-each:
 ```java
    package javabasico;
 
@@ -35,3 +44,11 @@ public class ArrayMenorValor {
 	}
 }
 ```
+***
+#### Recursos adicionales:
+- [Documentación oficial de Java](https://docs.oracle.com/en/java/)
+- [W3Schools - Curso de Java](https://www.w3schools.com/java/)
+- [Curso Java 2025. Introducción](https://www.youtube.com/watch?v=_WJkT42l7Wk&ab_channel=pildorasinformaticas)
+- Paiza.io
+
+
