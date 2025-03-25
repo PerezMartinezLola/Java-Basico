@@ -1,4 +1,4 @@
-package practicaBucles;
+package practicaBucle;
 
 public class bucles {
 	public static void main(String[] args) {
