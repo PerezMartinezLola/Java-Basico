@@ -1,4 +1,4 @@
-![Java Básico](https://localo.com/es/assets/img/definitions/what-is-java.webp)
+![Java Básico](https://c4.wallpaperflare.com/wallpaper/974/747/684/java-developer-hd-wallpaper-preview.jpg)
 # Java Básico
 
 Java es un lenguaje de programación ampliamente utilizado por su facilidad de aprendizaje, su enfoque en la programación orientada a objetos y su capacidad de ejecutarse en múltiples plataformas. 
