@@ -53,5 +53,9 @@ public class ArrayMenorValor {
 - [Curso Java 2025. Introducción](https://www.youtube.com/watch?v=_WJkT42l7Wk&ab_channel=pildorasinformaticas)
 - [Paiza.io](https://paiza.io/es/projects/new)
 
+*** 
+##### Cambios realizados:
+- Cambio en el nombre del paquete practicaBucles a practicaBucle.
+- Añado la clase de OperadoresAritmeticos.
 
 
