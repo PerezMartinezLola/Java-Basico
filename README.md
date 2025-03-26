@@ -54,8 +54,8 @@ public class ArrayMenorValor {
 - [Paiza.io](https://paiza.io/es/projects/new)
 
 *** 
-##### Cambios realizados:
-- Cambio en el nombre del paquete practicaBucles a practicaBucle.
+#### Cambios realizados:
+- Cambio el nombre del paquete practicaBucles a practicaBucle.
 - Añado la clase de OperadoresAritmeticos.
 
 
